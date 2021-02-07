@@ -1,0 +1,4 @@
+Options All -Indexes
+RewriteEngine on
+RewriteRule ^(.*)$ index.php?uri=$1 [NS,C,QSA]
+

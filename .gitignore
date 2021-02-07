@@ -1,0 +1,7 @@
+/vendor/**/.git
+/vendor/**/.github
+/bots_zips/unziped_files/*
+/bots_zips/zip_files/*
+
+
+

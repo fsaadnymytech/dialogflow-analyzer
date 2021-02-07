@@ -1,0 +1,40 @@
+body{
+	font-family: sans-serif;
+}
+
+.container_1{
+	text-align: center;
+}
+
+.main-container{
+	text-align: left;
+	display: inline-block;
+	width: 70%;
+	margin: auto;
+}
+
+.options-container{
+	padding: 10px;
+}
+
+.subtitle-options{
+	font-weight: bolder;
+}
+
+.option-class{
+	padding: 2px;
+}
+
+.button-class{
+	padding: 5px;
+}
+
+.input-button{
+	padding: 5px;
+}
+
+footer{
+	margin-top:15px;
+	text-align: center;
+	color:#838686;
+}

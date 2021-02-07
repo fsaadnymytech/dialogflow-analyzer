@@ -1,0 +1,11 @@
+
+
+ ________     ________     ________     ________     ______
+|  ______|   |  ______|   |  ____  |   |  ____  |   |   _  \
+| |______    | |______    | |____| |   | |____| |   |  | \  \
+|  ______|   |______  |   |  ____  |   |  ____  |   |  | |  |
+| |           ______| |   | |    | |   | |    | |   |  |_/  /
+|_|          |________|   |_|    |_|   |_|    |_|   |______/ 
+
+
+Para sistemas UNIX, se les debe dar permisos a todos los usuarios para crear y eliminar archivos de las carpetas :"/bots_zips/unziped_files/" y "/bots_zips/zip_files/", de lo contrario, no funcionará la ejecución.
